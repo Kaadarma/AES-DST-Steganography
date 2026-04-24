@@ -46,7 +46,7 @@ with tab_embed:
 
         if st.button("Menyisipkan Data", type="primary", use_container_width=True):
             if not uploaded:
-                st.error("Upload gambar cover dulu!")
+                st.error("Upload gambar dulu!")
             elif not message:
                 st.error("Pesan tidak boleh kosong!")
             elif not password:
