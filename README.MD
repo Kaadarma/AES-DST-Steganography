@@ -29,7 +29,7 @@ Kualitas gambar diukur menggunakan:
 
 ---
 
-# Project Setup Guides
+# Project Setup Guide
 
 ## Prerequisites
 
