@@ -1,4 +1,4 @@
-# AES + DST Steganography
+# AES + DST Steganography Project
 
 ## Overview
 
